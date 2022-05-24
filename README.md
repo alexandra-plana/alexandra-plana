@@ -28,8 +28,6 @@ Things i code with:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 
-I love programming as it alows me to blend my passion for problem solving and creativity. Creating a clean, interactive and reactive Ui in my projects brings me great joy. I aim to offer a pleasant and memorable experience to any users that come across my apps.
+I love programming as it alows me to blend my passion for problem solving and creativity. Creating clean, interactive and scalable architecture in my projects brings me great joy. I aim to offer a pleasant and memorable experience to any users that come across my apps.
 
 My passions include writing, long distance hiking and ceramic making. 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-plana&layout=compact)](https://github.com/alexandra-plana/github-readme-stats)
